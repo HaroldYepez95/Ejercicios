@@ -11,6 +11,7 @@ if __name__ == '__main__':
     nombre = input("ingrese su nombre: ")
     for n in nombre:
         print(n)
+        print("\n")
 
 
 
